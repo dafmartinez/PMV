@@ -1,0 +1,13 @@
+C:\Users\dafmartinez\source\repos\test_snmp\test_snmp\bin\Debug\test_snmp.exe.config
+C:\Users\dafmartinez\source\repos\test_snmp\test_snmp\bin\Debug\test_snmp.exe
+C:\Users\dafmartinez\source\repos\test_snmp\test_snmp\bin\Debug\test_snmp.pdb
+C:\Users\dafmartinez\source\repos\test_snmp\test_snmp\bin\Debug\AesysControls.dll
+C:\Users\dafmartinez\source\repos\test_snmp\test_snmp\bin\Debug\SnmpManager.dll
+C:\Users\dafmartinez\source\repos\test_snmp\test_snmp\bin\Debug\Utilities.dll
+C:\Users\dafmartinez\source\repos\test_snmp\test_snmp\bin\Debug\SnmpSharpNet.dll
+C:\Users\dafmartinez\source\repos\test_snmp\test_snmp\obj\Debug\test_snmp.Form1.resources
+C:\Users\dafmartinez\source\repos\test_snmp\test_snmp\obj\Debug\test_snmp.Properties.Resources.resources
+C:\Users\dafmartinez\source\repos\test_snmp\test_snmp\obj\Debug\test_snmp.csproj.GenerateResource.cache
+C:\Users\dafmartinez\source\repos\test_snmp\test_snmp\obj\Debug\test_snmp.csproj.CopyComplete
+C:\Users\dafmartinez\source\repos\test_snmp\test_snmp\obj\Debug\test_snmp.exe
+C:\Users\dafmartinez\source\repos\test_snmp\test_snmp\obj\Debug\test_snmp.pdb
